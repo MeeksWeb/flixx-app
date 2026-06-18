@@ -20,7 +20,7 @@ const global = {
   //below was created as global to be accessible
   api: {
     key: "7bf5fa3510309142faf2b68685716f2a",
-    url: "http://api.themoviedb.org/3/",
+    url: "https://api.themoviedb.org/3/",
   },
 };
 
